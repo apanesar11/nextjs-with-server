@@ -9,3 +9,23 @@ This is a template you can use to quickly start your full stack next.js project.
 	- allows you to import images
 - @zeit/next-css
 	- allows you to import css files
+
+## Getting Started
+
+### Prerequisites
+* [node](https://nodejs.org/en/)
+* [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+### Installation
+1. Clone the repo
+```sh
+git clone https://github.com/onicgroup/covid-tracking
+```
+2. Install NPM packages
+```sh
+npm install
+```
+3. Start the development server
+```sh
+npm run dev
+```
